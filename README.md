@@ -2,13 +2,6 @@
 [![itsmarsss' GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmarsss&show_icons=true&border_radius=25)](https://github.com/itsmarsss/)
 [![itsmarsss' GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsmarsss&border_radius=25&ring=5194F0&fire=4D71F2&currStreakLabel=5194F0)](https://github.com/itsmarsss/)
 
-<a href="https://github.com/itsmarsss/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmarsss&langs_count=5&border_radius=25"/>
-</a>
-
-[![Callerphone Bot](https://github-readme-stats.vercel.app/api/pin/?username=itsmarsss&repo=callerphone-bot&border_radius=25)](https://github.com/itsmarsss/callerphone-bot)
-[![Bezier Curve Drawer](https://github-readme-stats.vercel.app/api/pin/?username=itsmarsss&repo=bezier-curve-drawer&border_radius=25)](https://github.com/itsmarsss/Bezier-Curve-Drawer)
-
 <!--
 **itsmarsss/itsmarsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
