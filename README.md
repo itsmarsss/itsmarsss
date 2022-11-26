@@ -1,6 +1,6 @@
 ### Mindless Explorer Here 👋
 [![itsmarsss' GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmarsss&show_icons=true&border_radius=25)](https://github.com/itsmarsss/)
-[![itsmarsss' GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsmarsss&border_radius=25&ring=5194F0&fire=4D71F2&currStreakLabel=5194F0)](https://github.com/itsmarsss/)
+[![itsmarsss' GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsmarsss&border_radius=25&ring=5194F0&fire=4D71F2&currStreakLabel=5194F0)](https://github.com/itsmarsss/)  
 ![Profile views](https://gpvc.arturio.dev/itsmarsss)
 
 <!--
